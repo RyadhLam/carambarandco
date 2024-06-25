@@ -19,7 +19,7 @@
 
 ### Frontend (Landing Page)
 
-- Déployé sur GitHub Pages : [lien vers la landing page]()
+- Déployé sur GitHub Pages : [lien vers la landing page](https://ryadhlam.github.io/carambar-co/)
 
 
 
