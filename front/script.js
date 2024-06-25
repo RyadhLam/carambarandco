@@ -26,3 +26,4 @@ document.getElementById('addJokeButton').addEventListener('click', async () => {
         alert('Failed to add joke');
     }
 });
+
